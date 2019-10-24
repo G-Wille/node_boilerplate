@@ -1,5 +1,4 @@
 const Scopes = require(`../../modules/mongoose/const/Scopes`);
-
 const base = `/api`;
 
 module.exports = [
