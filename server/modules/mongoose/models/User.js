@@ -1,7 +1,5 @@
 const Schema = require(`mongoose`).Schema;
-
 const Scopes = require(`../const/Scopes`);
-
 const schema = new Schema({
 
   username: {
