@@ -1,4 +1,5 @@
 const path = require(`path`);
+
 const pluginHandler = require(`./lib/pluginHandler`);
 
 require(`dotenv`).load({silent: true});
